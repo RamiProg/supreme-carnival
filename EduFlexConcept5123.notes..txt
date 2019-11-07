@@ -1,0 +1,10 @@
+ What is problem solving?
+Solving a problem 
+Why it is important to understand a problem?
+In order to find the right solution.
+Why it is important to make a plan how to solve the problem?
+In order to take the steps needed to solve it 
+Why it is important to divide the problem into small parts?
+Because steps and small are more approachable
+Why it is important to debug a solution? 
+In order to remove its bugs and its hidden problems
