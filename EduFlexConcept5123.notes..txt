@@ -60,6 +60,7 @@ If you can break the problem down into the smallest terms, this will help you in
  Why it is important to debug a solution? 
 
 Debugging is walking through your plan and its execution and results. 
+We debug to make sure that our plan and solution actually works under all needed conditions.
 Assessing and reviewing is very important. Sometimes our solution is not perfect or misses certain aspects of the problem.
 Debug the solution: Look back (check and interpret).
 In problem solving it is good to look back (check and interpret)..  
