@@ -1,4 +1,4 @@
-1
+1.
  What is problem solving?
 
  Solving a problem 
@@ -7,7 +7,7 @@ Define the problem. Find the real problem, not just the symptoms that result fro
         Try to be as clear and thorough as possible when defining the problem. If it is a personal issue, be honest with yourself as to the causes of the problem. If it is a logistics problem, determine exactly where and when the problem occurs.
         Determine whether the problem is real or self-created. Do you need to solve this problem or is this about something you want? Putting things in perspective can help you navigate the problem-solving process.
 
-2
+2.
 Why it is important to understand a problem?
 
 Understanding the problem is the first step in solving the problem and is a critical step.
@@ -21,7 +21,18 @@ Sometimes the problem lies in understanding the problem.
   Sounds simple enough, but some people jump the gun and try to start solving the problem before they have read the whole problem.
   Once the problem is read, you need to list all the components and data that are involved. This is where you will be assigning your variable.
 
-3
+3.
+Why it is important to make a plan how to solve the problem?
+
+If we want to solve a problem , we need to understand the causes deeply.
+A plan can help provide clarity to identify the problem.
+Potential solutions are derived from the undertsanding of the problem.
+A plan is our design to solve the problem.
+A design will have weaknesses and strengths.
+It will have a goals.
+After we choose our make a plan, executing that plan can commence which will make us reach our wanted goals which are the solution to our problem.
+
+
 Why it is important to make a plan how to solve the problem?
 
 In order to take the steps needed to solve it.
@@ -35,17 +46,19 @@ When you devise a plan (translate), you come up with a way to solve the problem.
 Carry out the plan (solve).
 The next step, carry out the plan (solve), is big. This is where you solve the equation you came up with in your 'devise a plan' step. 
 
-4
+4.
  Why it is important to divide the problem into small parts?
 
+Dividing problems into small parts is very inportant as it allows us to address and treat each part independantly, this way if a solution has a certain bug it would not affect the rest of the solutions and it will be easier to identify and address.
 To simplify. Simplify the problem. An overly-complicated problem can feel overwhelming and be difficult to solve. 
 If there are multiple problems, break them down into smaller parts and deal with them individually. 
 If you can break the problem down into the smallest terms, this will help you in understanding it and finding a solution.
         For example, if you need to turn in many assignments to pass a class, focus on how many you have to do and approach them one by one.
         
-5
+5.
  Why it is important to debug a solution? 
 
+Assessing and reviewing is very important.
 Debug the solution: Look back (check and interpret).
 In problem solving it is good to look back (check and interpret)..  
 Basically, check to see if you used all your information and that the answer makes sense. 
