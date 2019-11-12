@@ -10,6 +10,7 @@ Define the problem. Find the real problem, not just the symptoms that result fro
 2.
 Why it is important to understand a problem?
 
+The plan/design to our solution will be based on our deep understanding of the problem or its root causes.
 Understanding the problem is the first step in solving the problem and is a critical step.
 Putting things in perspective can help you navigate the problem-solving process.
 In order to find the right solution.
@@ -58,7 +59,8 @@ If you can break the problem down into the smallest terms, this will help you in
 5.
  Why it is important to debug a solution? 
 
-Assessing and reviewing is very important.
+Debugging is walking through your plan and its execution and results. 
+Assessing and reviewing is very important. Sometimes our solution is not perfect or misses certain aspects of the problem.
 Debug the solution: Look back (check and interpret).
 In problem solving it is good to look back (check and interpret)..  
 Basically, check to see if you used all your information and that the answer makes sense. 
